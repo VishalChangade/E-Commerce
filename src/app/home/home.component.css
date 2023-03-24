@@ -1,0 +1,38 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.product{
+    display: flex;
+
+}
+
+.car{
+    position: absolute;
+    width: 50vw;
+    height: 500px;
+
+
+}
+
+.offers{
+    position: relative;
+    left: 50vw;
+    width: 30vw;
+    height: 70vh;
+}
+.label{
+    width: 100vw;
+    height: 100px;
+    background-color: antiquewhite;
+}
+.carousel-item{
+  /* transition: 3s ease-in-out; */
+/* transition-delay:; */
+  
+
+   
+}
+.item2{
+    transition-delay: 1s;
+}
